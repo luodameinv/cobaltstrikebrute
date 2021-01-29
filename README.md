@@ -1,9 +1,9 @@
 # cobaltstrikebrute
-cobalt strike服务端批量爆破
+批量爆破Cobalt Strike团队服务器
 
+对于，
 单个ip爆破：
 
- 
 https://github.com/ryanohoro/csbruter
 
 例如
