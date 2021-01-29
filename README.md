@@ -7,7 +7,7 @@ cobalt strike服务端批量爆破
 https://github.com/ryanohoro/csbruter
 
 例如
-python3 csbruter.py -p 52000  ip wordlist.txt
+python3 csbruter.py -p 50050  ip wordlist.txt
 //可指定密码字典，可以检测得比较全面
 
 
