@@ -1,4 +1,4 @@
-# cobaltstrikebrute
+# cobaltstrikebrute\ cobaltstrikebruter
 批量爆破Cobalt Strike团队服务器
 
 对于，
