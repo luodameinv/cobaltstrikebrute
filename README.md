@@ -13,7 +13,10 @@ python3 csbruter.py -p 50050  ip wordlist.txt
 
 针对多个CS服务端进行批量弱口令爆破:
 
-ip.txt放置需要爆破的资产
+ip.txt放置需要爆破的资产，格式ip:50050
 
 python3 cobaltstrikebrute.py
-//主要是修改了批量爆破的功能
+//在脚本中指定密码进行批量爆破
+
+python3 cobaltstrikebruter.py
+//调用同目录下的wordlist.txt进行批量爆破
